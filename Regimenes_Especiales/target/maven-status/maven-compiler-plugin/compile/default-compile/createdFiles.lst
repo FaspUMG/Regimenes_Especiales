@@ -1,0 +1,16 @@
+com\usuarios\usuarios\controllers\Regimenes_Especiales_Temporal_Controller.class
+com\usuarios\usuarios\Dto\Regimenes_Especiales_DTO.class
+com\usuarios\usuarios\repositories\Regimenes_Especiales_repositories.class
+com\usuarios\usuarios\UsuariosApplication$SecurityConfig.class
+com\usuarios\usuarios\services\Regimenes_Especiales_Temporal_Services.class
+com\usuarios\usuarios\controllers\Regimenes_Especiales_Controller.class
+com\usuarios\usuarios\Dto\Gestiones_Regimenes_Especiales_DTO.class
+com\usuarios\usuarios\repositories\Regimenes_Especiales_Temporal_Repositories.class
+com\usuarios\usuarios\controllers\Gestiones_Regimenes_Especiales_Controller.class
+com\usuarios\usuarios\services\Regimenes_Especiales_Services.class
+com\usuarios\usuarios\models\Gestiones_Regimenes_Especiales.class
+com\usuarios\usuarios\services\Gestiones_Regimenes_Especiales_Services.class
+com\usuarios\usuarios\models\Regimenes_Especiales.class
+com\usuarios\usuarios\models\Regimenes_Especiales_Temporal.class
+com\usuarios\usuarios\UsuariosApplication.class
+com\usuarios\usuarios\repositories\Gestiones_Regimenes_Especiales_Interface.class
